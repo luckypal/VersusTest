@@ -2,7 +2,7 @@
 
 ## How to run code
 
-The example input is wrote inside the code so you can easily run the code.
+The example input is written inside the code so you can easily run the code.
 
 ```
   node index.js
